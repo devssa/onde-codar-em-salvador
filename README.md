@@ -22,6 +22,8 @@ Exemplo: `[Javascript] [Node] [MySQL] Front-End Developer na [NOME DA EMPRESA]`
 
 2. Se a vaga está pendente de informação e/ou fora do padrão especificado no [modelo da issue](https://github.com/devssa/onde-codar-em-salvador/blame/master/TEMPLATE_ISSUE.md), um dos moderadores ou administradores poderá fechar a issue. Ela pode ser reaberta a qualquer momento, desde que tenha sido devidamente preenchida.
 
+3. Se a vaga for aprovada pela moderação será compartilhada em nosso linkedin e labels serão aplicadas a mesma.
+
 ### Como receber atualizações de novas vagas:
 Você pode receber atualizações das vagas no seu email ou via notificações do Github, basta clicar em **Watch** e, em seguida, clicar em **Watching**, você pode modificar o modo de receber notificações em **[notifications](https://github.com/settings/notifications)** no próprio Github.
 
