@@ -30,8 +30,8 @@ Você pode receber atualizações das vagas no seu email ou via notificações d
 ### Outros repositórios de vagas
 
 Esse repositório é específico para a postagem de vagas de **desenvolvimento na região de Salvador**,
-mas existem vagas para muitas outras áreas nesse mercado, algumas pessoas
-da comunidade forkaram esse repositório e criaram outras listas específicas
+mas existem vagas para muitas outras áreas nesse mercado; assim como nós outras pessoas 
+da comunidade forkaram o repositório do usuário **FRONTENDBR** e criaram outras listas específicas
 para diferentes _stacks_ e estados do país. Confira abaixo as outras
 listas onde você poderá postar sua vaga:
 
