@@ -1,10 +1,7 @@
 # Onde Codar em Salvador
 
-Divulgação de vagas para devs em Salvador e região metropolitana via _issues_ do Github
-
-Vagas disponíveis em https://github.com/devssa/onde-codar-em-salvador/issues
-
-Grupo do telegram https://t.me/co0da4r
+> Divulgação de vagas para devs em Salvador e região metropolitana via _issues_ do Github
+>> #### [Vagas](https://github.com/devssa/onde-codar-em-salvador/issues) | [Telegram](https://t.me/co0da4r)
 
 ### Cadastrando uma vaga
 
