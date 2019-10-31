@@ -2,7 +2,7 @@
 name: ADD VAGA
 about: MODELO DE CADASTRO DE OPORTUNIDADE
 title: "[JAVASCRIPT] [MYSQL] [NODE.JS] Desenvolvedor Front-End na [XPTO]"
-labels: ''
+labels: HELP WANTED
 assignees: devssa
 
 ---
