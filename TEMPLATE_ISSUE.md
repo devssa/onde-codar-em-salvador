@@ -13,11 +13,11 @@ Exemplo: `[JAVASCRIPT] [MYSQL] [NODE.JS] Front-End Developer na NOME DA EMPRESA`
 
 ## Descrição da vaga
 
-Projeto bazinga em NodeJS, etc.
+- Projeto bazinga em NodeJS, etc.
 
 ## Local
 
-Remoto ou Escritório, Salvador - Brotas
+- Salvador 
 
 ## Benefícios
 
@@ -27,13 +27,6 @@ Remoto ou Escritório, Salvador - Brotas
 - Auxílio creche
 - ...
 
-#### Diferenciais
-
-- 2 horas de almoço
-- monte a sua máquina como desejar
-- frigobar sempre cheio :P
-- sala de jogos
-- ...
 
 ## Requisitos
 
@@ -50,29 +43,14 @@ Remoto ou Escritório, Salvador - Brotas
 
 ## Contratação
 
-PJ a combinar
+- a combinar
 
 ## Nossa empresa
 
-Aqui na Corporação ACME somos líderes em...
+- Aqui na Corporação ACME somos líderes em...
 
 ## Como se candidatar
 
 Por favor envie um email para email@email.com.br com seu CV anexado - enviar no assunto: Vaga NodeJS
 
-## Tempo médio de feedbacks
 
-Costumamos enviar feedbacks em até XX dias após cada processo.
-E-mail para contato em caso de não haver resposta: feedbacks@empresasuperlegal.com.br
-
-## Labels
-
-- Alocado
-- CLT
-- Estágio
-- Freela
-- Júnior
-- PJ
-- Pleno
-- Remoto
-- Sênior
