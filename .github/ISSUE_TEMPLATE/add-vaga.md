@@ -59,4 +59,5 @@ Exemplo: `[JAVASCRIPT] [MYSQL] [NODE.JS] Desenvolvedor Front-End na [NOME DA EMP
 ## Como se candidatar
 
 - Por favor envie um email para email@email.com.br com seu CV anexado - enviar no assunto: Vaga NodeJS
+- [Clique aqui para se candidatar](cole aqui o link para a vaga)
 
