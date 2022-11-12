@@ -2,7 +2,12 @@ name: "Close stale issues"
 on:
   schedule:
   - cron: "0 0 * * *"
-
+  workflow_dispatch:
+    inputs:
+      input:
+        description: "Test"
+        required: false
+        default: "World"
 jobs:
   stale:
     runs-on: ubuntu-latest
